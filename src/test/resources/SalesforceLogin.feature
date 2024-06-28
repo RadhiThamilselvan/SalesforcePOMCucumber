@@ -1,4 +1,4 @@
-Feature: implementing login
+Feature: implementing Salesforce login
 
 
 Scenario: Check Login Error Msg
